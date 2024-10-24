@@ -81,3 +81,41 @@
     text-align: left;
     width: 500px;
 }
+
+/* Section expertise. */
+
+.expertise {
+    padding-top: 90px;
+    width: 1170px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.expertise p:first-of-type {
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 36px;
+    text-align: left;
+    text-transform: uppercase;
+}
+
+.expertise p:last-child {
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: left;
+    width: 370px;
+    height: 84px;
+    top: 1004px;
+    left: 215px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+.block_expertise1 img { 
+    padding-bottom: 30px;
+}
